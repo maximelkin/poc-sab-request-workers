@@ -1,0 +1,23 @@
+{
+  "name": "poc-sab-request-workers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "flatc --ts -o generated ./schemas/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximelkin/poc-sab-request-workers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximelkin/poc-sab-request-workers/issues"
+  },
+  "homepage": "https://github.com/maximelkin/poc-sab-request-workers#readme",
+  "dependencies": {
+  }
+}
